@@ -34,9 +34,9 @@ void loop()
     switch (key)
     {
       case '1': //POWER
-	      digitalWrite(ledpin, HIGH);
-	      My_Sender.send(NEC,0x5dd232cd, 32); 
-	      digitalWrite(ledpin, LOW);       
+	digitalWrite(ledpin, HIGH);
+	My_Sender.send(NEC,0x5dd232cd, 32); 
+	digitalWrite(ledpin, LOW);       
         break;
       
       case '2': //MUTE
@@ -47,14 +47,14 @@ void loop()
               
       case '3': //VOL +
         digitalWrite(ledpin, HIGH);
-    	  My_Sender.send(NEC,0x5dd2C03f, 32);
+    	My_Sender.send(NEC,0x5dd2C03f, 32);
       	digitalWrite(ledpin, LOW);
         break;
                 
       case '4': //VOL -
         digitalWrite(ledpin, HIGH);
-    	  My_Sender.send(NEC,0x5dd240bf, 32);
-	      digitalWrite(ledpin, LOW);
+    	My_Sender.send(NEC,0x5dd240bf, 32);
+	digitalWrite(ledpin, LOW);
         break;       
     }
   }
