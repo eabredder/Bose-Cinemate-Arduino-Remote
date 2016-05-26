@@ -10,7 +10,7 @@ Remote for an original Bose Cinemate Home Theater Speaker System using Arduino, 
 * Row Pins = D8, D9
 * Column Pins = D10, D11
 
-Make sure both libraries are istalled properly. Both can be installed through the library manager or manually.
+Make sure both libraries are installed properly. Both can be installed through the library manager or manually.
 
 Upload *BoseIRSend.ino* to your board
 
