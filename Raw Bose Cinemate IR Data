@@ -1,0 +1,307 @@
+POWER
+
+Received: 
+
+OFF 	ON
+33852 usec, 8860 usec
+4340 usec, 600 usec
+500 usec, 600 usec
+1580 usec, 600 usec
+500 usec, 600 usec
+1560 usec, 600 usec
+1580 usec, 600 usec
+1580 usec, 600 usec
+480 usec, 620 usec
+1560 usec, 600 usec
+1580 usec, 600 usec
+1580 usec, 620 usec
+480 usec, 600 usec
+1560 usec, 620 usec
+480 usec, 620 usec
+480 usec, 600 usec
+1580 usec, 600 usec
+500 usec, 600 usec
+500 usec, 600 usec
+500 usec, 600 usec
+1560 usec, 620 usec
+1560 usec, 600 usec
+500 usec, 600 usec
+500 usec, 600 usec
+1580 usec, 600 usec
+480 usec, 620 usec
+1560 usec, 620 usec
+1560 usec, 600 usec
+500 usec, 600 usec
+500 usec, 620 usec
+1560 usec, 600 usec
+1560 usec, 600 usec
+500 usec, 600 usec
+1580 usec, 660 usec
+int IRsignal[] = {
+// ON, OFF (in 10's of microseconds)
+	886, 434,
+	60, 50,
+	60, 158,
+	60, 50,
+	60, 156,
+	60, 158,
+	60, 158,
+	60, 48,
+	62, 156,
+	60, 158,
+	60, 158,
+	62, 48,
+	60, 156,
+	62, 48,
+	62, 48,
+	60, 158,
+	60, 50,
+	60, 50,
+	60, 50,
+	60, 156,
+	62, 156,
+	60, 50,
+	60, 50,
+	60, 158,
+	60, 48,
+	62, 156,
+	62, 156,
+	60, 50,
+	60, 50,
+	62, 156,
+	60, 156,
+	60, 50,
+	60, 158,
+	66, 0};
+
+MUTE
+
+
+Received: 
+
+OFF 	ON
+2124 usec, 8880 usec
+4340 usec, 600 usec
+500 usec, 600 usec
+1600 usec, 600 usec
+500 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 600 usec
+500 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 600 usec
+500 usec, 600 usec
+1600 usec, 620 usec
+480 usec, 600 usec
+500 usec, 600 usec
+1600 usec, 600 usec
+480 usec, 620 usec
+1600 usec, 600 usec
+500 usec, 600 usec
+500 usec, 600 usec
+500 usec, 600 usec
+480 usec, 620 usec
+480 usec, 620 usec
+480 usec, 620 usec
+480 usec, 620 usec
+480 usec, 620 usec
+1580 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 600 usec
+1600 usec, 620 usec
+1580 usec, 600 usec
+1600 usec, 600 usec
+int IRsignal[] = {
+// ON, OFF (in 10's of microseconds)
+	888, 434,
+	60, 50,
+	60, 160,
+	60, 50,
+	60, 160,
+	60, 160,
+	60, 160,
+	60, 50,
+	60, 160,
+	60, 160,
+	60, 160,
+	60, 50,
+	60, 160,
+	62, 48,
+	60, 50,
+	60, 160,
+	60, 48,
+	62, 160,
+	60, 50,
+	60, 50,
+	60, 50,
+	60, 48,
+	62, 48,
+	62, 48,
+	62, 48,
+	62, 48,
+	62, 158,
+	60, 160,
+	60, 160,
+	60, 160,
+	60, 160,
+	62, 158,
+	60, 160,
+	60, 0};
+
+VOL UP
+
+
+Received: 
+
+OFF 	ON
+15924 usec, 8840 usec
+4360 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+500 usec, 600 usec
+1600 usec, 600 usec
+500 usec, 600 usec
+1600 usec, 580 usec
+1640 usec, 560 usec
+540 usec, 540 usec
+540 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+int IRsignal[] = {
+// ON, OFF (in 10's of microseconds)
+	884, 436,
+	58, 52,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 52,
+	58, 50,
+	60, 160,
+	60, 50,
+	60, 160,
+	58, 164,
+	56, 54,
+	54, 54,
+	58, 52,
+	58, 52,
+	58, 52,
+	58, 52,
+	58, 52,
+	58, 52,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 0};
+
+VOL DOWN
+
+
+Received: 
+
+OFF 	ON
+33516 usec, 8840 usec
+4360 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+1600 usec, 600 usec
+520 usec, 580 usec
+500 usec, 600 usec
+1620 usec, 560 usec
+520 usec, 580 usec
+540 usec, 560 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+520 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+1620 usec, 580 usec
+int IRsignal[] = {
+// ON, OFF (in 10's of microseconds)
+	884, 436,
+	58, 52,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 52,
+	58, 52,
+	58, 160,
+	60, 52,
+	58, 50,
+	60, 162,
+	56, 52,
+	58, 54,
+	56, 52,
+	58, 52,
+	58, 52,
+	58, 52,
+	58, 162,
+	58, 52,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 162,
+	58, 0};
+
