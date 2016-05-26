@@ -15,3 +15,5 @@ Make sure both libraries are istalled properly. Both can be installed through th
 Upload *BoseIRSend.ino* to your board
 
 **Coming Soon:** PCB, Diagrams, Assembly, etc...
+
+For this: http://worldwide.bose.com/productsupport/en_us/web/cinemate/page.html
